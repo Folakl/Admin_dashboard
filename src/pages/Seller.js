@@ -1,0 +1,177 @@
+const Seller = [
+    {
+        id:1,
+        SN:1,
+        Name: "Clark Victoria",
+        EmailAddress : "example@gmail.com",
+        Noofproperty: "example@gmail.com",
+        PhoneNumber: "+234 901 222 3333",
+        Address: "+234 901 222 3333",
+        Date: "06:24  AM,24/09/2024",
+        Amount: "NGN 65,553",
+        Status: "Completed",
+        Fullname: "Gideon Nicodemus"
+
+    },
+    {
+        id:2,
+        SN:2,
+        Name: "Clark Victoria",
+        EmailAddress : "example@gmail.com",
+        Noofproperty: "example@gmail.com",
+        PhoneNumber: "+234 901 222 3333",
+        Address: "+234 901 222 3333",
+        Date: "06:24  AM,24/09/2024",
+        Amount: "NGN 65,553",
+        Status: "Completed",
+        Fullname: "Gideon Nicodemus"
+    },
+    {
+        id:3,
+        SN:3,
+        Name: "Clark Victoria",
+        EmailAddress : "example@gmail.com",
+        Noofproperty: "example@gmail.com",
+        PhoneNumber: "+234 901 222 3333",
+        Address: "+234 901 222 3333",
+        Date: "06:24  AM,24/09/2024",
+        Amount: "NGN 65,553",
+        Status: "Completed",
+        Fullname: "Gideon Nicodemus"
+    },
+    {
+        id:4,
+        SN:4,
+        Name: "Clark Victoria",
+        EmailAddress : "example@gmail.com",
+        Noofproperty: "example@gmail.com",
+        PhoneNumber: "+234 901 222 3333",
+        Address: "+234 901 222 3333",
+        Date: "06:24  AM,24/09/2024",
+        Amount: "NGN 65,553",
+        Status: "Failed",
+        Fullname: "Temitope Williams"
+    },
+    {
+        id:5,
+        SN:5,
+        Name: "Clark Victoria",
+        EmailAddress : "example@gmail.com",
+        Noofproperty: "example@gmail.com",
+        PhoneNumber: "+234 901 222 3333",
+        Address: "+234 901 222 3333",
+        Date: "06:24  AM,24/09/2024",
+        Amount: "NGN 65,553",
+        Status: "Pending",
+        Fullname: "Gideon Nicodemus"
+    },
+    {
+        id:6,
+        SN:6,
+        Name: "Clark Victoria",
+        EmailAddress : "example@gmail.com",
+        Noofproperty: "example@gmail.com",
+        PhoneNumber: "+234 901 222 3333",
+        Address: "+234 901 222 3333",
+        Date: "06:24  AM,24/09/2024",
+        Amount: "NGN 54,200",
+        Status: "Completed",
+        Fullname: "Gideon Nicodemus"
+    },
+    {
+        id:7,
+        SN:7,
+        Name: "Clark Victoria",
+        EmailAddress : "example@gmail.com",
+        Noofproperty: "example@gmail.com",
+        PhoneNumber: "+234 901 222 3333",
+        Address: "+234 901 222 3333",
+        Date: "06:24  AM,24/09/2024",
+        Amount: "NGN 54,200",
+        Status: "Pending",
+        Fullname: "Gideon Nicodemus"
+    },
+    {
+        id:8,
+        SN:8,
+        Name: "Clark Victoria",
+        EmailAddress : "example@gmail.com",
+        Noofproperty: "example@gmail.com",
+        PhoneNumber: "+234 901 222 3333",
+        Address: "+234 901 222 3333",
+        Date: "06:24  AM,24/09/2024",
+        Amount: "NGN 65,553",
+        Status: "Completed",
+        Fullname: "Gideon Nicodemus"
+    },
+    {
+        id:9,
+        SN:9,
+        Name: "Clark Victoria",
+        EmailAddress : "example@gmail.com",
+        Noofproperty: "example@gmail.com",
+        PhoneNumber: "+234 901 222 3333",
+        Address: "+234 901 222 3333",
+        Date: "06:24  AM,24/09/2024",
+        Amount: "NGN 65,553",
+        Status: "Failed",
+        Fullname: "Temitope Williams"
+    },
+    {
+        id:10,
+        SN:10,
+        Name: "Clark Victoria",
+        EmailAddress : "example@gmail.com",
+        Noofproperty: "example@gmail.com",
+        PhoneNumber: "+234 901 222 3333",
+        Address: "+234 901 222 3333",
+          Date: "06:24  AM,24/09/2024",
+        Amount: "NGN 65,553",
+        Status: "Failed",
+        Fullname: "Temitope Williams"
+    },
+    {
+        id:11,
+        SN:11,
+        Name: "Clark Victoria",
+        EmailAddress : "example@gmail.com",
+        Noofproperty: "example@gmail.com",
+        PhoneNumber: "+234 901 222 3333",
+        Address: "+234 901 222 3333",
+        Date: "06:24  AM,24/09/2024",
+        Amount: "NGN 54,200",
+        Status: "Pending",
+        Fullname: "Temitope Williams"
+    },
+    {
+        id:12,
+        SN:12,
+        Name: "Clark Victoria",
+        EmailAddress : "example@gmail.com",
+        Noofproperty: "example@gmail.com",
+        PhoneNumber: "+234 901 222 3333",
+        Address: "+234 901 222 3333",
+            Date: "06:24  AM,24/09/2024",
+        Amount: "NGN 54,200",
+        Status: "Completed",
+        Fullname: "Temitope Williams"
+    },
+    {
+        id:13,
+        SN:13,
+        Name: "Clark Victoria",
+        EmailAddress : "example@gmail.com",
+        Noofproperty: "example@gmail.com",
+        PhoneNumber: "+234 901 222 3333",
+        Address: "+234 901 222 3333",
+          Date: "06:24  AM,24/09/2024",
+        Amount: "NGN 54,200",
+        Status: "Pending",
+        Fullname: "Temitope Williams"
+    },
+    
+    ]
+
+
+    export default  Seller;
+ 
